@@ -1,4 +1,4 @@
-This is an assignment about Bus Booking Management using Binary Search Tree
+This is an assignment about Bus Booking Management using Binary Search Tree and Linked List
 
 - Requirement to use this project:
 + Netbeans 8.2 (or higher)
